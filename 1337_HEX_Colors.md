@@ -33,7 +33,7 @@ Ah, i les descripcions poètiques dels colors... no son culpa meva, les hi he fe
 | ![#D06135](https://via.placeholder.com/15/D06135/000000?text=+) | #D06135 | Un to de taronja càlid i brillant que evoca la calidesa del sol de la tarda.                                 |
 | ![#D06600](https://via.placeholder.com/15/D06600/000000?text=+) | #D06600 | Un taronja més intens, similar al color de la pell d'una carbassa madura a la tardor.                       |
 | ![#F00D13](https://via.placeholder.com/15/F00D13/000000?text=+) | #F00D13 | Un vermell vibrant i enèrgic, com el color d'una fruita deliciosa i madura.
-| ![#F4C4D3](https://via.placeholder.com/15/F4C4D3/000000?text=+) | #F4C4D3 |  El color amb el codi #F4C4D3 és un rosa pàl·lid amb un toc de pàl·lides tonalitats grogues. És un color suau i càlid que recorda a les flors delicades o a les postes de sol romàntiques. És perfecte per a crear una atmosfera relaxada i acollidora, ideal per a decoracions interiors o per a dissenys que busquin transmetre serenitat i calma.                                 |
+| ![#F4C4D3](https://via.placeholder.com/15/F4C4D3/000000?text=+) | #F4C4D3 | És un color suau i càlid que recorda a les flors delicades o a les postes de sol romàntiques. És perfecte per a crear una atmosfera relaxada i acollidora, ideal per a decoracions interiors o per a dissenys que busquin transmetre serenitat i calma.                                 |
 
 
 
