@@ -25,6 +25,7 @@ Ah, i les descripcions poètiques dels colors... no son culpa meva, les hi he fe
 
 | Mostra | Codí HEX | Descripció |
 |--------|---------------|--------------------------------------------------------------------------------------------------------------|
+| ![#C0FFEE](https://via.placeholder.com/15/C0FFEE/000000?text=+) | #C0FFEE | Un blau cel lluminós, brillant i vibrant, just el contrari de com em sento jo quan necessito el meu cafè del mati, negre i amarg com la meva ànima.    |
 | ![#B33FFF](https://via.placeholder.com/15/B33FFF/000000?text=+) | #B33FFF | Un lila suau i únic, amb matisos de blau i rosa, com el color de les flors de lavanda en plena floració.    |
 | ![#8EEFFF](https://via.placeholder.com/15/8EEFFF/000000?text=+) | #8EEFFF | Un to de turquesa clar i refrescant, que recorda el color de l'aigua cristal·lina a una platja tropical.    |
 | ![#B3EFFF](https://via.placeholder.com/15/B3EFFF/000000?text=+) | #B3EFFF | Un turquesa més suau i relaxant, similar al color del cel en un dia clar.                                   |
