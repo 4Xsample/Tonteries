@@ -25,13 +25,14 @@ Ah, i les descripcions poètiques dels colors... no son culpa meva, les hi he fe
 
 | Mostra | Codí HEX | Descripció |
 |--------|---------------|--------------------------------------------------------------------------------------------------------------|
-| <center><div style="background-color: #B33FFF; width: 20px; height: 20px; display: inline-block; margin-right: 10px;"></div></center> | #B33FFF | Un lila suau i únic, amb matisos de blau i rosa, com el color de les flors de lavanda en plena floració.    |
-| <center><div style="background-color: #8EEFFF; width: 20px; height: 20px; display: inline-block; margin-right: 10px;"></div></center> | #8EEFFF | Un to de turquesa clar i refrescant, que recorda el color de l'aigua cristal·lina a una platja tropical.    |
-| <center><div style="background-color: #B3EFFF; width: 20px; height: 20px; display: inline-block; margin-right: 10px;"></div></center> | #B3EFFF | Un turquesa més suau i relaxant, similar al color del cel en un dia clar.                                   |
-| <center><div style="background-color: #BE3F13; width: 20px; height: 20px; display: inline-block; margin-right: 10px;"></div></center> | #BE3F13 | Un marró ataronjat intens, amb matisos de taronja i vermell, que evoca els colors de la terra durant la tardor i té una qualitat càlida i rica. |
-| <center><div style="background-color: #D06135; width: 20px; height: 20px; display: inline-block; margin-right: 10px;"></div></center> | #D06135 | Un to de taronja càlid i brillant que evoca la calidesa del sol de la tarda.                                 |
-| <center><div style="background-color: #D06600; width: 20px; height: 20px; display: inline-block; margin-right: 10px;"></div></center> | #D06600 | Un taronja més intens, similar al color de la pell d'una carbassa madura a la tardor.                       |
-| <center><div style="background-color: #F00D13; width: 20px; height: 20px; display: inline-block; margin-right: 10px;"></div></center> | #F00D13 | Un vermell vibrant i enèrgic, com el color d'una fruita deliciosa i madura.                                 |
+| ![#B33FFF](https://via.placeholder.com/15/B33FFF/000000?text=+) | #B33FFF | Un lila suau i únic, amb matisos de blau i rosa, com el color de les flors de lavanda en plena floració.    |
+| ![#8EEFFF](https://via.placeholder.com/15/8EEFFF/000000?text=+) | #8EEFFF | Un to de turquesa clar i refrescant, que recorda el color de l'aigua cristal·lina a una platja tropical.    |
+| ![#B3EFFF](https://via.placeholder.com/15/B3EFFF/000000?text=+) | #B3EFFF | Un turquesa més suau i relaxant, similar al color del cel en un dia clar.                                   |
+| ![#BE3F13](https://via.placeholder.com/15/BE3F13/000000?text=+) | #BE3F13 | Un marró ataronjat intens, amb matisos de taronja i vermell, que evoca els colors de la terra durant la tardor i té una qualitat càlida i rica. |
+| ![#D06135](https://via.placeholder.com/15/D06135/000000?text=+) | #D06135 | Un to de taronja càlid i brillant que evoca la calidesa del sol de la tarda.                                 |
+| ![#D06600](https://via.placeholder.com/15/D06600/000000?text=+) | #D06600 | Un taronja més intens, similar al color de la pell d'una carbassa madura a la tardor.                       |
+| ![#F00D13](https://via.placeholder.com/15/F00D13/000000?text=+) | #F00D13 | Un vermell vibrant i enèrgic, com el color d'una fruita deliciosa i madura.                                 |
+
 
 
 ## Disclaimer: 
